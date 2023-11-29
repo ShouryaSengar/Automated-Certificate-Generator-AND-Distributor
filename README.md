@@ -8,6 +8,7 @@ This project is a Certificate Generator and Distributor developed during a 1-mon
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -31,7 +32,7 @@ This project is a Certificate Generator and Distributor developed during a 1-mon
 - **DOM (Document Object Model):** Manipulate the document structure to update and display certificate details.
 - **certificate-generator:** Custom tool/module used for managing the generation and distribution of certificates.
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -41,10 +42,11 @@ git clone https://github.com/ShouryaSengar/Automated-Certificate-Generator-AND-D
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd Automated-Certificate-Generator-AND-Distributor
-   ```
-3. Open Live server to start project
+```bash
+cd Automated-Certificate-Generator-AND-Distributor
+```
+
+3. Open Live server to start project 
 
 ## Usage 📝
 
